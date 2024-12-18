@@ -1,3 +1,0 @@
-[2024-12-18T19:26:03.935115+00:00] authenticator.INFO: Authenticator initialized with API URL:  [] []
-[2024-12-18T19:26:03.945357+00:00] authenticator.INFO: Access token missing or expired. Refreshing or fetching new token... [] []
-[2024-12-18T19:26:03.956074+00:00] authenticator.ERROR: Error: cURL error 3: URL rejected: No host part in the URL (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for /authentication/refreshAccessToken [] []
